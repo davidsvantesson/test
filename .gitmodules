@@ -1,0 +1,3 @@
+[submodule "test2_subm"]
+	path = test2_subm
+	url = https://github.com/davidsvantesson/test2.git
